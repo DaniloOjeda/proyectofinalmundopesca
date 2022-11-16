@@ -1,0 +1,216 @@
+[
+    
+{
+    "id":1,
+    "categoria":"caña",
+    "imagen": "caña-1.65.png",
+    "nombre":"caña okuma 2 tramos 2.10mts",
+    "precio":11000    
+},
+    
+{
+    "id":2,
+    "categoria":"caña",
+    "imagen": "caña-okuma-celilo-1.85mts-2-tramos.png",
+    "nombre":"caña okuma 2 tramos 2.40mts",
+    "precio":12000   
+       
+},
+       
+{
+    "id":3,
+    "categoria":"caña",
+    "imagen": "caña-1.65.png",
+    "nombre":"caña okuma  2.10mts",
+    "precio":5000
+    
+},
+
+{
+    "id":4,
+    "categoria":"caña",
+    "imagen": "caña-okuma-celilo-1.85mts-2-tramos.png",
+    "nombre":"caña okuma 1.85mts",
+    "precio":9600
+   
+},
+   
+{
+    "id":5,
+    "categoria":"caña",
+    "imagen": "caña-1.65.png",
+    "nombre":"caña okuma 1.65mts ",
+    "precio":8300
+    
+},
+
+{
+    "id":6,
+    "categoria":"caña",
+    "imagen": "caña-okuma-celilo-1.85mts-2-tramos.png",
+    "nombre":"caña colony 2.10mts",
+    "precio":8000
+   
+},
+
+{
+    "id":7,
+    "categoria":"caña",
+    "imagen": "caña-1.65.png",
+    "nombre":"caña colony 2 tramos 2.10mts",
+    "precio":7900    
+},
+    
+{
+    "id":8,
+    "categoria":"caña",
+    "imagen": "caña-okuma-celilo-1.85mts-2-tramos.png",
+    "nombre":"caña marine grafito 1.85mts ",
+    "precio":22000   
+       
+},
+       
+{
+    "id":9,
+    "categoria":"caña",
+    "imagen": "caña-1.65.png",
+    "nombre":"caña marine power 2tr 3mts ",
+    "precio":4600
+    
+},
+
+{
+    "id":10,
+    "categoria":"caña",
+    "imagen": "caña-okuma-celilo-1.85mts-2-tramos.png",
+    "nombre":"caña marine cost 2.10mts ",
+    "precio":16500
+},
+
+{
+    "id":11,
+    "categoria":"caña",
+    "imagen": "caña-1.65.png",
+    "nombre":"caña colony plus ",
+    "precio":7000
+    
+},
+
+{
+    "id":12,
+    "categoria":"caña",
+    "imagen": "caña-1.65.png",
+    "nombre":"caña okuma ",
+    "precio":6500
+    
+},
+
+{
+    "id":13,
+    "categoria":"reel",
+    "imagen": "reel rotativo shimano.png",
+    "nombre":"reel shimano 420 ",
+    "precio":8000
+    
+},
+
+{
+    "id":14,
+    "categoria":"reel",
+    "imagen": "reel rotativo okuma.png",
+    "nombre":"reel okuma 320",
+    "precio":8800
+    
+},
+
+{
+    "id":15,
+    "categoria":"reel",
+    "imagen": "reel rotativo marine sport.png",
+    "nombre":"reel marine 440",
+    "precio":21400
+    
+},
+
+{
+    "id":16,
+    "categoria":"reel",
+    "imagen": "reel rotativo caster power.png",
+    "nombre":"reel 220 ",
+    "precio":32000
+    
+},
+
+{
+    "id":17,
+    "categoria":"reel",
+    "imagen": "reel frontal waterdog kovalt.png",
+    "nombre":"reel lmg ",
+    "precio":17800
+    
+},
+
+{
+    "id":18,
+    "categoria":"reel"  ,
+    "imagen": "reel frontal spinit titan.png",
+    "nombre":"reel titan 3330",
+    "precio":14000
+    
+},
+
+{
+    "id":19,
+    "categoria":"reel",
+    "imagen": "reel frontal caster geminis.png",
+    "nombre":"reel caster 33 ",
+    "precio":14000
+    
+},
+
+{
+    "id":20,
+    "categoria":"reel",
+    "imagen": "reel frontal caster flex.png",
+    "nombre":"reel caster 450 ",
+    "precio":16000
+    
+},
+
+{
+    "id":21,
+    "categoria":"anzuelo",
+    "imagen": "anzuelo para dorado m1.png",
+    "nombre":"anzuelo mustang",
+    "precio":700
+    
+},
+
+{
+    "id":22,
+    "categoria":"anzuelo",
+    "imagen": "anzuelo para dorado m2.png",
+    "nombre":"anzuelo mustang",
+    "precio":800
+    
+},
+
+{
+    "id":23,
+    "categoria":"anzuelo",
+    "imagen": "anzuelos para boga.png",
+    "nombre":"anzuelos para boga m3",
+    "precio":500
+    
+},
+
+{
+    "id":24,
+    "categoria":"anzuelo",
+    "imagen": "anzuelos para tararira.png",
+    "nombre":"anzuelos para tararira m5",
+    "precio":600
+    
+}
+
+]
